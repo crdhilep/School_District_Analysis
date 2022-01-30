@@ -1,5 +1,5 @@
-# School_District_Analysis:
-Click here to view the file: [PyCitySchools_Challenge](https://github.com/crdhilep/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
+# School District Analysis:
+Source: [PyCitySchools_Challenge](https://github.com/crdhilep/School_District_Analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 ## Overview:
 The purpose of this analysis is to replace the inaccurate data for the 9th graders at Thomas High School while keeping the rest of the data intact and perform the same analysis we did our module. The metrics that we want to analyze our data by include: total school budget, per student capita, average math and reading score, the passing percent for math and reading, and the overall passing percentage.
